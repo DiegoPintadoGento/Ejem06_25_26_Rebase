@@ -1,4 +1,10 @@
 Primera modificación
 Segunda modificación
 Tercera modificación
+<<<<<<< HEAD
 
+=======
+Cuarta modificación
+Quinta modificación
+Sexta modificación
+>>>>>>> dc9050b (Sexta modificación)
