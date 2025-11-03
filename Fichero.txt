@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Primera modificación
-=======
 Primera modificación
 Segunda modificación
 Tercera modificación
->>>>>>> 64c7af0 (Tercera modificación)
+
